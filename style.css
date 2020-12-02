@@ -1,0 +1,135 @@
+.main-outer {
+    display: block;
+    width: 100%;
+    min-height: 400px
+}
+
+.box {
+    width: calc(50% - 20px);
+    box-sizing: border-box;
+    padding: 10px;
+    margin: 10px;
+    float: left
+}
+
+.responsive {
+    max-width: 60%;
+    max-height: 50%;
+    width: 100%
+}
+
+.div1 {
+    max-width: 500px;
+    height: 100px;
+    background-color: powderblue;
+}
+
+.strong {
+    color: blue;
+    font-family: courier;
+    font-size: 160%;
+}
+
+i1 {
+    color: mediumblue;
+    font-family: courier;
+    font-size: 160%;
+}
+
+i2 {
+    color: deeppink;
+    font-family: courier;
+    font-size: 160%;
+}
+
+i3 {
+    color: navy;
+    font-family: courier;
+    font-size: 160%;
+}
+
+i4 {
+    color: blue;
+    font-family: courier;
+    font-size: 160%;
+}
+
+strong {
+    color: green;
+    font-family: courier;
+    font-size: 160%;
+}
+
+img {
+    height: 80%;
+    max-width: 100%;
+    margin-left: 60%;
+    border-radius: 50%;
+}
+
+.fa {
+    text-align: center;
+    font-size: 30px;
+    margin: 10px;
+}
+
+.fa:hover {
+    transform: scale(1.4);
+    text-shadow: 0.5px 0.5px;
+
+}
+
+.font_awesome_center {
+    text-align: center;
+    margin-bottom: 3%;
+}
+
+.intro {
+
+    background-color: coral;
+    font-size: 22px;
+    padding: 20px;
+    margin-bottom: 5%;
+    border-radius: 25px;
+
+}
+
+
+.line-hight {
+    line-height: 2;
+    text-align: center;
+}
+
+.skill_font {
+    font-size: 20px;
+
+}
+
+h2 {
+    text-decoration: underline;
+    color: blueviolet;
+    margin-top: 5%;
+    text-align: left;
+}
+
+.w3-green {
+    border-radius: 25px;
+}
+
+
+
+ .footer {
+     margin-top: 4%;
+     font-weight: bold;
+     padding: 1%;
+
+     background-color: aqua;
+     color: #000000;
+     font-size: 16px;
+     text-align: center;
+     border-radius: 25px;
+ }
+
+ .small {
+     font-size: 16px;
+ }
